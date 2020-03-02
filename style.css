@@ -16,9 +16,12 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  /* min-height: 8vh; */
   font-family: "Poppins", sans-serif;
   background-color: rgb(255, 253, 240, 0.5);
+}
+
+.logo{
+  padding-top: 0.3vh;
 }
 
 .navbar2{
